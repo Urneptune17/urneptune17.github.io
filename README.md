@@ -7,7 +7,8 @@
     <body> 
       <left><h1>Маря</h1></left>
       
-     
+     <left><img alt="Это я" width="15%" src="me.jpg"></left>
+      <br/>
       <h2>Контакты:</h2>
       Страничка <a href=https://vk.com/urneptune>vkontakte</a>
       <br/>
