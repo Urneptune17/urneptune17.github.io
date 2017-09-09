@@ -1,20 +1,24 @@
 <!doctype html>
-  <html>
-    <head>
-      <meta charset="utf-8">
-      <title>Моя личная страничка</title>
-    </head>
-    <body> 
-      <left><h1>Маря</h1></left>
-      
-     <left><img alt="Это я" width="15%" src="me.jpg"></left>
-      <br/>
-      <h2>Контакты:</h2>
-      Страничка <a href=https://vk.com/urneptune>vkontakte</a>
-      <br/>
-      <a href=https://github.com/urneptune17
-      Телефон: <b>+79150112388</b>
-      <br/>
-      E-mail: <i>mrkasumova@edu.hse.ru</i>
-    </body>
-  </html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Моя личная страничка</title>
+  </head>
+  <body> 
+    <left><h1>Хакназарова Дина</h1></left>
+    <left><img alt="Это я" width="15%" src="me.jpg"></left> 
+    <left><h2>Студентка ВШЭ. Люблю людей и мир.
+    Всегда готова прийти на помощь и поднять вам настроение.</h2></left>
+    <br/>
+    <h3>Контакты:</h3>
+    Страничка <a href=https://vk.com/khaknazarova>vkontakte</a>
+    <br/>
+    <a href=https://github.com/dakhaknazarova>GitHub</a>
+    <br/> 
+    <a href=https://www.instagram.com/dinulkha/>Instgram</a> 
+    <br/>
+    Телефон: <b>+79850180023</b>
+    <br/>
+    E-mail: <i>dakhaknazarova@edu.hse.ru</i>
+  </body>
+</html>
